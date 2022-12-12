@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petrik\\source\\repos\\Funktions\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Petrik\\source\\repos\\Week7Functions\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Petrik\\source\\repos\\Funktions\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\Petrik\\source\\repos\\Week7Functions\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Petrik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petrik\\source\\repos\\Funktions\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Petrik\\source\\repos\\Week7Functions\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Petrik\\AppData\\Roaming\\NuGet\\NuGet.Config",

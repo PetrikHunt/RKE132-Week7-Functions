@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wasU2r8OKLjw4+l+HDEQ+w7cvf81Lr8F+QrnhKzihZZOgtlWOxJsyoPq5LIguEoPq3ML8GuKF6SBjr3lvY+7+w==",
+  "dgSpecHash": "HjBuIhdasMeICpGaAcF5ahse+zk3MAA/q8zD/GWcWWhcX00QwyP68cJmqG4wdTupnfhcd0BH6nN/AZgf2YXOag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Petrik\\source\\repos\\Funktions\\Calculator\\Calculator.csproj",
+  "projectFilePath": "C:\\Users\\Petrik\\source\\repos\\Week7Functions\\Calculator\\Calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

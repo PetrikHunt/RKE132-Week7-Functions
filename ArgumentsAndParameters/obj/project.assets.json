@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petrik\\source\\repos\\Funktions\\ArgumentsAndParameters\\ArgumentsAndParameters.csproj",
+      "projectUniqueName": "C:\\Users\\Petrik\\source\\repos\\Week7Functions\\ArgumentsAndParameters\\ArgumentsAndParameters.csproj",
       "projectName": "ArgumentsAndParameters",
-      "projectPath": "C:\\Users\\Petrik\\source\\repos\\Funktions\\ArgumentsAndParameters\\ArgumentsAndParameters.csproj",
+      "projectPath": "C:\\Users\\Petrik\\source\\repos\\Week7Functions\\ArgumentsAndParameters\\ArgumentsAndParameters.csproj",
       "packagesPath": "C:\\Users\\Petrik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petrik\\source\\repos\\Funktions\\ArgumentsAndParameters\\obj\\",
+      "outputPath": "C:\\Users\\Petrik\\source\\repos\\Week7Functions\\ArgumentsAndParameters\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Petrik\\AppData\\Roaming\\NuGet\\NuGet.Config",

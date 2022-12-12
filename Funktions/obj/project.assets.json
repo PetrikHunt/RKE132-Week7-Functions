@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Petrik\\source\\repos\\Funktions\\Funktions\\Functions.csproj",
+      "projectUniqueName": "C:\\Users\\Petrik\\source\\repos\\Week7Functions\\Funktions\\Functions.csproj",
       "projectName": "Functions",
-      "projectPath": "C:\\Users\\Petrik\\source\\repos\\Funktions\\Funktions\\Functions.csproj",
+      "projectPath": "C:\\Users\\Petrik\\source\\repos\\Week7Functions\\Funktions\\Functions.csproj",
       "packagesPath": "C:\\Users\\Petrik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Petrik\\source\\repos\\Funktions\\Funktions\\obj\\",
+      "outputPath": "C:\\Users\\Petrik\\source\\repos\\Week7Functions\\Funktions\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Petrik\\AppData\\Roaming\\NuGet\\NuGet.Config",
